@@ -1,0 +1,11 @@
+/* CTA arrow uses the built-in .fab-arrow component. Pin it tightly into the slide's
+   bottom-right corner with container-query units so it tracks the floating chat button
+   at any screen size. */
+.slide .fab-arrow{
+  right:1.6cqw;
+  bottom:1.4cqh;
+  gap:.4cqh;
+}
+.slide .fab-arrow .ar{
+  font-size:5cqw;
+}

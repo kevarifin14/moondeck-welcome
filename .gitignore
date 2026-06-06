@@ -1,0 +1,12 @@
+# MoonDeck deck — track the source, ignore build output + app-regenerated wiring.
+# Built deck (rebuilt from slides.html on every open):
+*.html
+!slides.html
+# Slide screenshots (scripts/shot.js):
+shots/
+# Skill wiring + instructions the app reseeds on every open:
+.claude/
+.agents/
+AGENTS.md
+CLAUDE.md
+.DS_Store
