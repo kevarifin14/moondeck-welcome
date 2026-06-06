@@ -1,8 +1,8 @@
 {
   "title": "Welcome to MoonDeck",
   "brand": "MoonDeck",
-  "brandLabel": "· welcome",
+  "brandLabel": "\u00b7 welcome",
   "mark": "moonpay",
-  "theme": "paper",
+  "theme": "gold",
   "output": "welcome-to-moondeck.html"
 }

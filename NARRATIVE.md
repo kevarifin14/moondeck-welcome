@@ -108,9 +108,9 @@ over the features, point at a text-based future (git), and give the user the key
 **Hands off:** here's where it's going →
 
 ### 12 — A deck is just text · *Roadmap*
-**Idea:** Because a deck is just text, sync and collaborate with git — like engineers already do.
-**On screen:** git-style cards + "Soon" tag — version it · branch it · collaborate.
-**Say:** "A MoonDeck deck is plain text — HTML and a little JSON. So the same version control engineers use for code works for slides: sync, branch, collaborate. That's where we're headed."
+**Idea:** Because a deck is just text, nothing is ever lost and sharing is trivial — your work is auto-saved and restorable today, and one word turns it into a website; building together is next.
+**On screen:** three cards — auto-saved (live), publish it (live), collaborate (next).
+**Say:** "A MoonDeck deck is just text under the hood, so it behaves like nothing you've used before. Every change is saved automatically — you can jump back to any earlier version. One word turns it into a live website you can share. And soon, you and your team build the same deck together." (Keep it about what they get — never mention git or GitHub.)
 **Hands off:** so — your turn →
 
 ### 13 — Make it yours · *CTA*
