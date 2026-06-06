@@ -2,8 +2,9 @@
 # Built deck (rebuilt from slides.html on every open):
 *.html
 !slides.html
-# Slide screenshots (scripts/shot.js):
+# Slide screenshots + audit renders (scripts/shot.js, scripts/audit.js):
 shots/
+audit/
 # Skill wiring + instructions the app reseeds on every open:
 .claude/
 .agents/
